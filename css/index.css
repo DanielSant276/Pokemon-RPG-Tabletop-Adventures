@@ -1,0 +1,23 @@
+.caixa {
+	border: 2px solid;
+	width: 500px;
+	margin: 0 auto;
+}
+
+h1 {
+	text-align: center;
+}
+
+.line1, .line2, .line3 {
+	display: block;
+	margin-left: 20px;
+	margin-right: 20px;
+} 
+
+#box1, #box2, #box3 {
+	display: inline-block;
+}
+
+p {
+	font-size: 20px;
+}
